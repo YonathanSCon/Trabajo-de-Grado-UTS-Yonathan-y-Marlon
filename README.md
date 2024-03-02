@@ -8,4 +8,5 @@ Para ejecutar el codigo, debe ingresarse a Arduino, escoger la tarjeta de desarr
 - DHT sensor library versión 1.4.6 por Adafruit
 - Firebase ESP32 Client versión 4.3.10 por Mobizt
 - RTClib versión 2.1.3 por Adafruit
+
 Y por último se ejecuta el código para que comience con su funcionalidad
