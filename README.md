@@ -1,5 +1,6 @@
 # Trabajo-de-Grado-UTS-Yonathan-y-Marlon
 Este repositorio es presentado por los estudiantes Yonathan y Marlon siendo un prototipo para un Sistema de Monitoreo IoT para la calidad del aire en la UTS, para optar por el título de Tecnólogo en Desarrollo de Sistemas Informáticos
+
 Para ejecutar el codigo, debe ingresarse a Arduino, escoger la tarjeta de desarrollo ESP32 Dev Module, se deben descargar las siguientes librerias:
 - Adafruit BusIO versión 1.15.0 por Adafruit
 - Adafruit GFX Library versión 1.11.9 por Adafruit
