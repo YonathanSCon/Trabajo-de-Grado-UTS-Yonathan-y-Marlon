@@ -22,4 +22,4 @@ Ahora bien, una vez hecho lo anterior, se procede a dar las credenciales para es
 
 ADVERTENCIA. Antes de proceder con el último paso, debe mencionarse que en el caso que se quieran cambiar los pines del SDA (Serial Data) y SCL (Serial Clock) del RTC dentro del código, estos pines deben ser los mismos a los pines SDA y SCL  a los que estara conectada la pantalla oled, lo mismo pasa al invertirse la acción, si se cambian los pines SDA y SCL de la pantalla, se cambian dentro del codigo los pines asignados al SDA y SCL del RTC. Esto es ALTAMENTE recomendable establecerlo antes de proceder con el montaje del PCB, ya que después no se deben realizar cambios dentro del codigo para los pines descritos.
 
-Por último se ejecuta el código para que comience con su funcionalidad
+Por último se ejecuta el código para que comience con su funcionalidad.
